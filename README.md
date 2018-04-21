@@ -4,7 +4,7 @@ There are many interesting and difficult problems to solve in designing a blockc
 
 The information here is mostly low-level and technical, and where possible blockchain-agnostic. It is as much as possible detached from the best practices and development of particular smart contracts or smart contract languages themselves.
 
-This information is written as if the reader has a rudimentary understanding of how blockchains work, especially with regards to things like Merkle Roots. 
+This information is written as if the reader has a rudimentary understanding of how blockchains work, especially with regards to hashing and merkle roots.
 
 # Contract State
 
